@@ -8,7 +8,7 @@ const SecondPage = () => (
   <Layout>
     <Seo title=" " />
     <h1>You have a fax from</h1>
-    <p>Gerry Savage</p>
+    <p>Gerry Savage
     <p>PREAH Building Services
 Campbell House, First Floor
 Greenside Road, M8 Central Business Park

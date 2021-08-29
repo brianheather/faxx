@@ -41,7 +41,7 @@ const Layout = ({ children }) => {
         >
           © {new Date().getFullYear()}, Copyright
           {` `}
-          <a href="https://quiver-plant-amount.glitch.me/zzz.html">Unsubscribe</a>
+          <a href="https://faxxxx.brianheather.repl.co/zzz.html">Unsubscribe</a>
         </footer>
       </div>
     </>

